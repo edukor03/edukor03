@@ -6,8 +6,6 @@ Cyber Security Student
 
 I've been learning to code for almost 3 years. I started with Python as I found it easy to implement automation which helped me with my school work. In addition, in my spare time, I'm trying to learn Java.
 
-* 🧠  I'm learning Java
-
 ### Skills
 
 
