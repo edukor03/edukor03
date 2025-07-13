@@ -20,7 +20,7 @@
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 # Badges
-[![AWS Certified](https://images.credly.com/size/110x110/images/e0bb038e-3312-44dd-863a-1408782b6379.png)](https://www.credly.com/badges/e0bb038e-3312-44dd-863a-1408782b6379)
+[![AWS Academy Graduate - Cloud Foundations](https://img.shields.io/badge/AWS_Academy-Graduate_Cloud_Foundations-FF9900?logo=amazon-aws&style=for-the-badge)](https://www.credly.com/badges/e0bb038e-3312-44dd-863a-1408782b6379)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=edukor03&theme=calm_pink&hide_border=false&include_all_commits=false&count_private=false)<br/>
