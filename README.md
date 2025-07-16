@@ -19,7 +19,7 @@
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-# 🏅 Badges
+# 🏅 Badges/Certificates
 [![AWS Academy Graduate - Cloud Foundations](https://img.shields.io/badge/AWS_Academy-Graduate_Cloud_Foundations-FF9900?logo=amazon-aws&style=for-the-badge)](https://www.credly.com/badges/e0bb038e-3312-44dd-863a-1408782b6379)
 
 # 📊 GitHub Stats:
